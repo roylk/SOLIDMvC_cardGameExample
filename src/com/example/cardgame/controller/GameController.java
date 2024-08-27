@@ -2,10 +2,7 @@ package com.example.cardgame.controller;
 
 import com.example.cardgame.model.*;
 import com.example.cardgame.view.GameViewable;
-import com.openclassrooms.cardgame.model.*;
-import com.openclassrooms.cardgame.view.*;
 import games.GameEvaluator;
-
 import java.util.ArrayList;
 import java.util.List;
 
